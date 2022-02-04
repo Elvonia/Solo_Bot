@@ -1,0 +1,1172 @@
+[
+  {
+    "Name": "Defeat a Goblin",
+    "Task": "Defeat a Goblin. After all, this is not the Goblin League.",
+    "Requirements": "N/A",
+    "Comp%": "96%"
+  },
+  {
+    "Name": "Defeat a Moss Giant",
+    "Task": "Defeat a Moss Giant.",
+    "Requirements": "N/A",
+    "Comp%": "79%"
+  },
+  {
+    "Name": "Defeat a Guard",
+    "Task": "Defeat a Guard.",
+    "Requirements": "N/A",
+    "Comp%": "88%"
+  },
+  {
+    "Name": "Defeat the Lesser Demon in the Wizards' Tower",
+    "Task": "Defeat the Lesser Demon at the top of the Wizards' Tower.",
+    "Requirements": "N/A",
+    "Comp%": "77%"
+  },
+  {
+    "Name": "Defeat a Rock Crab in the Fremennik Province",
+    "Task": "Defeat a rock crab in the Fremennik Province.",
+    "Requirements": "N/A",
+    "Comp%": "64%"
+  },
+  {
+    "Name": "Defeat a Troll in the Fremennik Province",
+    "Task": "Defeat a troll in the Fremennik Province.",
+    "Requirements": "N/A",
+    "Comp%": "32%"
+  },
+  {
+    "Name": "Defeat a TzHaar",
+    "Task": "Defeat any TzHaar in Mor Ul Rek.",
+    "Requirements": "N/A",
+    "Comp%": "48%"
+  },
+  {
+    "Name": "Defeat a Greater Demon on Karamja",
+    "Task": "Defeat a Greater Demon on Karamja.",
+    "Requirements": "N/A",
+    "Comp%": "30%"
+  },
+  {
+    "Name": "Defeat a Tortoise With Riders in Kandarin",
+    "Task": "Defeat a tortoise with riders in Kandarin.",
+    "Requirements": "N/A",
+    "Comp%": "36%"
+  },
+  {
+    "Name": "Defeat a Troll in Asgarnia",
+    "Task": "Defeat a Troll in Asgarnia.",
+    "Requirements": "N/A",
+    "Comp%": "25%"
+  },
+  {
+    "Name": "Defeat a Blue Dragon in Asgarnia",
+    "Task": "Defeat a blue dragon in Asgarnia.",
+    "Requirements": "N/A",
+    "Comp%": "47%"
+  },
+  {
+    "Name": "Defeat a Black Demon in Asgarnia",
+    "Task": "Defeat a black demon in Asgarnia.",
+    "Requirements": "N/A",
+    "Comp%": "33%"
+  },
+  {
+    "Name": "Defeat an Al Kharid Warrior",
+    "Task": "Defeat an Al Kharid Warrior.",
+    "Requirements": "N/A",
+    "Comp%": "69%"
+  },
+  {
+    "Name": "Defeat a Werewolf in Morytania",
+    "Task": "Defeat a Werewolf in Morytania.",
+    "Requirements": "N/A",
+    "Comp%": "56%"
+  },
+  {
+    "Name": "Defeat One of Fenkenstrain's Experiments",
+    "Task": "Defeat one of Fenkenstrain's Experiments in the Experiment Cave.",
+    "Requirements": "Requires partial completion of   Creature of Fenkenstrain",
+    "Comp%": "13%"
+  },
+  {
+    "Name": "Defeat a Ghast",
+    "Task": "Defeat a Ghast in Mort Myre.",
+    "Requirements": "Requires completion of   Nature Spirit",
+    "Comp%": "17%"
+  },
+  {
+    "Name": "Defeat a Lava Dragon in the Wilderness",
+    "Task": "Defeat a Lava dragon in the Wilderness.",
+    "Requirements": "Optionally a knife or a slash weapon to slash webs or  52 Agility and   Wilderness hard diary if meleeing, alternatively ranged or magic equipment",
+    "Comp%": "58%"
+  },
+  {
+    "Name": "Defeat a Fire Giant in the Wilderness",
+    "Task": "Defeat a Fire Giant in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "43%"
+  },
+  {
+    "Name": "Defeat a Chaos Dwarf in the Wilderness",
+    "Task": "Defeat a Chaos Dwarf in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "53%"
+  },
+  {
+    "Name": "Defeat a Green Dragon in the Wilderness",
+    "Task": "Defeat a Green Dragon in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "60%"
+  },
+  {
+    "Name": "Defeat an Adult Chromatic Dragon",
+    "Task": "Defeat either an adult Green Dragon, Blue Dragon, Red Dragon or Black Dragon.",
+    "Requirements": "N/A",
+    "Comp%": "68%"
+  },
+  {
+    "Name": "Defeat a Lesser Demon",
+    "Task": "Defeat a Lesser Demon.",
+    "Requirements": "N/A",
+    "Comp%": "81%"
+  },
+  {
+    "Name": "100 Lizardmen Shaman Kills",
+    "Task": "Help the Shayzien house by killing 100 Lizardmen shamans.",
+    "Requirements": "100% Shayzien favour",
+    "Comp%": "0.5%"
+  },
+  {
+    "Name": "500 Lizardmen Shaman Kills",
+    "Task": "Help the Shayzien house by killing 500 Lizardmen shamans.",
+    "Requirements": "100% Shayzien favour",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1000 Lizardmen Shaman Kills",
+    "Task": "Help the Shayzien house by killing 1000 Lizardmen shamans.",
+    "Requirements": "100% Shayzien favour",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Obor",
+    "Task": "Defeat Obor in Edgeville Dungeon.",
+    "Requirements": "Requires a giant key.",
+    "Comp%": "9.1%"
+  },
+  {
+    "Name": "Defeat Bryophyta",
+    "Task": "Defeat Bryophyta in Edgeville Dungeon.",
+    "Requirements": "Requires a mossy key.",
+    "Comp%": "7.5%"
+  },
+  {
+    "Name": "Defeat an Elf in Tirannwn",
+    "Task": "Defeat an Elf in Tirannwn.",
+    "Requirements": "N/A",
+    "Comp%": "29%"
+  },
+  {
+    "Name": "Defeat a Dagannoth in the Fremennik Province",
+    "Task": "Defeat a Dagannoth in the Fremennik Province.",
+    "Requirements": "N/A",
+    "Comp%": "17%"
+  },
+  {
+    "Name": "Defeat a Steel Dragon on Karamja",
+    "Task": "Defeat a Steel Dragon on Karamja.",
+    "Requirements": "N/A",
+    "Comp%": "10%"
+  },
+  {
+    "Name": "Defeat a Mithril Dragon",
+    "Task": "Defeat a mithril dragon in the Ancient Cavern.",
+    "Requirements": "N/A",
+    "Comp%": "2.1%"
+  },
+  {
+    "Name": "Defeat the Penance Queen",
+    "Task": "Defeat the Penance Queen in Barbarian Assault.",
+    "Requirements": "N/A",
+    "Comp%": "3.5%"
+  },
+  {
+    "Name": "Defeat the Giant Mole",
+    "Task": "Defeat the Giant Mole beneath Falador.",
+    "Requirements": "Bring a light source in the cave.",
+    "Comp%": "3.1%"
+  },
+  {
+    "Name": "Defeat 30 Black Dragons in Asgarnia",
+    "Task": "Defeat 30 black dragons in Asgarnia.",
+    "Requirements": "N/A",
+    "Comp%": "2.2%"
+  },
+  {
+    "Name": "Defeat Some Animated Rune Armour",
+    "Task": "Defeat some Animated Rune Armour in the Warriors' Guild.",
+    "Requirements": "Requires access to the Warriors' Guild.",
+    "Comp%": "15%"
+  },
+  {
+    "Name": "Defeat a Scarab Mage",
+    "Task": "Defeat a Scarab Mage in the Sophanem Dungeon.",
+    "Requirements": "Partial completion of   Contact!, a light source",
+    "Comp%": "7.1%"
+  },
+  {
+    "Name": "Defeat a Kalphite Guardian",
+    "Task": "Defeat a Kalphite Guardian in the Kharidian Desert.",
+    "Requirements": "N/A",
+    "Comp%": "19%"
+  },
+  {
+    "Name": "Defeat a Fiyr Shade",
+    "Task": "Defeat a Fiyr Shade.",
+    "Requirements": "65 Firemaking (killing the shade in Temple Trekking doesn't count)",
+    "Comp%": "0.6%"
+  },
+  {
+    "Name": "Defeat a Vyrewatch Sentinel",
+    "Task": "Defeat a Vyrewatch Sentinel in Darkmeyer.",
+    "Requirements": "Completed Sins of the Father",
+    "Comp%": "16%"
+  },
+  {
+    "Name": "Defeat the Crazy Archaeologist",
+    "Task": "Defeat the Crazy Archaeologist in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "25%"
+  },
+  {
+    "Name": "Defeat Scorpia",
+    "Task": "Defeat Scorpia in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "7.3%"
+  },
+  {
+    "Name": "Defeat the Chaos Fanatic",
+    "Task": "Defeat the Chaos Fanatic in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "6.9%"
+  },
+  {
+    "Name": "Defeat the Chaos Elemental",
+    "Task": "Defeat the Chaos Elemental in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "5.5%"
+  },
+  {
+    "Name": "Defeat a Crocodile",
+    "Task": "Defeat a Crocodile in the Kharidian Desert.",
+    "Requirements": "N/A",
+    "Comp%": "41%"
+  },
+  {
+    "Name": "1250 Lizardmen Shaman Kills",
+    "Task": "Help the Shayzien house by killing 1250 Lizardmen shamans.",
+    "Requirements": "100% Shayzien favour",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1500 Lizardmen Shaman Kills",
+    "Task": "Help the Shayzien house by killing 1500 Lizardmen shamans.",
+    "Requirements": "100% Shayzien favour",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1 Sarachnis Kill",
+    "Task": "Kill Sarachnis in the Forthos Dungeon.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "3.2%"
+  },
+  {
+    "Name": "25 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 25 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "0.7%"
+  },
+  {
+    "Name": "50 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 50 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "0.3%"
+  },
+  {
+    "Name": "75 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 75 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "100 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 100 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "150 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 150 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "200 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 200 times.",
+    "Requirements": "Slash weapon or a knife to access area",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1 Skotizo Kill",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend.",
+    "Requirements": "N/A",
+    "Comp%": "4.8%"
+  },
+  {
+    "Name": "10 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 10 times.",
+    "Requirements": "N/A",
+    "Comp%": "0.6%"
+  },
+  {
+    "Name": "1 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric.",
+    "Requirements": "N/A",
+    "Comp%": "1.9%"
+  },
+  {
+    "Name": "25 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric 25 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "50 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric 50 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "75 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric 75 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "100 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode.",
+    "Requirements": "N/A",
+    "Comp%": "0.3%"
+  },
+  {
+    "Name": "10 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode 10 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "1 Mimic Kill",
+    "Task": "Kill the Mimic as part of a treasure trail.",
+    "Requirements": "N/A",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "5 Mimic Kills",
+    "Task": "Kill the Mimic as part of a treasure trail 5 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat a Rune Dragon",
+    "Task": "Defeat a Rune Dragon in the Lithkren Vault.",
+    "Requirements": "The Fremennik Provinces",
+    "Comp%": "2.8%"
+  },
+  {
+    "Name": "Defeat the Abyssal Sire",
+    "Task": "Defeat the Abyssal Sire in the Abyssal Nexus.",
+    "Requirements": "85 Slayer",
+    "Comp%": "0.5%"
+  },
+  {
+    "Name": "Defeat a Waterfiend in Tirannwn",
+    "Task": "Defeat a Waterfiend in Tirannwn.",
+    "Requirements": "N/A",
+    "Comp%": "17%"
+  },
+  {
+    "Name": "Defeat a Moss Giant in Tirannwn",
+    "Task": "Defeat a Moss Giant in Tirannwn.",
+    "Requirements": "N/A",
+    "Comp%": "21%"
+  },
+  {
+    "Name": "Complete the Gauntlet",
+    "Task": "Complete the Gauntlet in Prifddinas.",
+    "Requirements": "N/A",
+    "Comp%": "15%"
+  },
+  {
+    "Name": "Defeat Zalcano",
+    "Task": "Defeat Zalcano in Prifddinas.",
+    "Requirements": "N/A",
+    "Comp%": "5.0%"
+  },
+  {
+    "Name": "Defeat Zulrah",
+    "Task": "Defeat Zulrah at the Poison Waste.",
+    "Requirements": "N/A",
+    "Comp%": "8.5%"
+  },
+  {
+    "Name": "Defeat Zulrah in 1:30",
+    "Task": "Defeat Zulrah at the Poison Waste in 1:30 or less.",
+    "Requirements": "N/A",
+    "Comp%": "3.9%"
+  },
+  {
+    "Name": "Complete the Gauntlet in 8:00",
+    "Task": "Complete the Gauntlet in Prifddinas in 8:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "9.1%"
+  },
+  {
+    "Name": "Defeat Vorkath",
+    "Task": "Defeat Vorkath on Ungael.",
+    "Requirements": "N/A",
+    "Comp%": "2.1%"
+  },
+  {
+    "Name": "Defeat Vorkath in 2:00",
+    "Task": "Defeat Vorkath on Ungael in 2:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "0.9%"
+  },
+  {
+    "Name": "Defeat the Dagannoth Kings Without Leaving",
+    "Task": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon without leaving their area.",
+    "Requirements": "N/A",
+    "Comp%": "3.4%"
+  },
+  {
+    "Name": "Defeat a Demonic Gorilla",
+    "Task": "Defeat a demonic gorilla in the Crash Site Cavern.",
+    "Requirements": "N/A",
+    "Comp%": "4.7%"
+  },
+  {
+    "Name": "Defeat K'ril Tsutsaroth",
+    "Task": "Defeat K'ril Tsutsaroth in the God Wars Dungeon.",
+    "Requirements": "70 Hitpoints",
+    "Comp%": "3.8%"
+  },
+  {
+    "Name": "Defeat General Graardor",
+    "Task": "Defeat General Graardor in the God Wars Dungeon.",
+    "Requirements": "70 Strength",
+    "Comp%": "7.6%"
+  },
+  {
+    "Name": "Defeat Kree'arra",
+    "Task": "Defeat Kree'arra in the God Wars Dungeon.",
+    "Requirements": "70 Ranged",
+    "Comp%": "2.6%"
+  },
+  {
+    "Name": "Defeat Commander Zilyana",
+    "Task": "Defeat Commander Zilyana in the God Wars Dungeon.",
+    "Requirements": "70 Agility",
+    "Comp%": "2.7%"
+  },
+  {
+    "Name": "Defeat Venenatis",
+    "Task": "Defeat Venenatis in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "4.8%"
+  },
+  {
+    "Name": "Defeat Callisto",
+    "Task": "Defeat Callisto in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "4.3%"
+  },
+  {
+    "Name": "Defeat Vet'ion",
+    "Task": "Defeat Vet'ion in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "2.2%"
+  },
+  {
+    "Name": "Defeat the King Black Dragon",
+    "Task": "Defeat the King Black Dragon in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "3.0%"
+  },
+  {
+    "Name": "Defeat Phosani's Nightmare",
+    "Task": "Defeat Phosani's Nightmare in the Sisterhood Sanctuary.",
+    "Requirements": "Requires one killcount of The Nightmare.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 5 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 5 times combined.",
+    "Requirements": "Requires one killcount of The Nightmare.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 10 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 10 times combined.",
+    "Requirements": "Requires one killcount of The Nightmare.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 25 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 25 times combined.",
+    "Requirements": "Requires one killcount of The Nightmare.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex",
+    "Task": "Defeat Nex in the God Wars Dungeon.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex 10 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 10 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex 25 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 25 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex 50 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 50 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "25 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 25 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "50 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 50 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "60 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 60 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "80 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 80 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "100 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "125 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 125 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "150 Skotizo Kills",
+    "Task": "Kill Skotizo beneath the Catacombs of Kourend 150 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "250 Chambers of Xeric",
+    "Task": "Complete the Chambers of Xeric 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "25 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode 25 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "50 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode 50 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "100 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "25 Mimic Kills",
+    "Task": "Kill the Mimic as part of a treasure trail 25 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "35 Mimic Kills",
+    "Task": "Kill the Mimic as part of a treasure trail 35 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Zulrah in 0:54",
+    "Task": "Defeat Zulrah at the Poison Waste in 0:54 or less.",
+    "Requirements": "N/A",
+    "Comp%": "1.6%"
+  },
+  {
+    "Name": "Complete the Gauntlet in 5:00",
+    "Task": "Complete the Gauntlet in Prifddinas in 5:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "3.9%"
+  },
+  {
+    "Name": "Complete the Corrupted Gauntlet in 8:30",
+    "Task": "Complete the Corrupted Gauntlet in Prifddinas in 8:30 or less.",
+    "Requirements": "N/A",
+    "Comp%": "7.7%"
+  },
+  {
+    "Name": "Complete the Corrupted Gauntlet in 7:00",
+    "Task": "Complete the Corrupted Gauntlet in Prifddinas in 7:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "5.7%"
+  },
+  {
+    "Name": "Complete the Corrupted Gauntlet 100 Times",
+    "Task": "Complete the Corrupted Gauntlet in Prifddinas 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "1.1%"
+  },
+  {
+    "Name": "Complete the Corrupted Gauntlet 250 Times",
+    "Task": "Complete the Corrupted Gauntlet in Prifddinas 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Zalcano 250 Times",
+    "Task": "Defeat Zalcano in Prifddinas 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Zalcano 500 Times",
+    "Task": "Defeat Zalcano in Prifddinas 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Zulrah 250 Times",
+    "Task": "Defeat Zulrah at the Poison Waste 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat Zulrah 500 Times",
+    "Task": "Defeat Zulrah at the Poison Waste 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Vorkath in 1:00",
+    "Task": "Defeat Vorkath on Ungael in 1:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "0.4%"
+  },
+  {
+    "Name": "Defeat Vorkath 5 Times Without Special Damage",
+    "Task": "Defeat Vorkath on Ungael 5 times without taking any damage from his special attacks and without leaving his area.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Vorkath 15 Times Without Leaving",
+    "Task": "Defeat Vorkath on Ungael 15 times without leaving his area.",
+    "Requirements": "N/A",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "Defeat Vorkath 250 Times",
+    "Task": "Defeat Vorkath on Ungael 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Vorkath 500 Times",
+    "Task": "Defeat Vorkath on Ungael 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Vorkath 750 Times",
+    "Task": "Defeat Vorkath on Ungael 750 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Each Dagannoth King 300 Times",
+    "Task": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 300 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Each Dagannoth King 650 Times",
+    "Task": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 650 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Each Dagannoth King 1000 Times",
+    "Task": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 1000 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Fight Caves in 35:00",
+    "Task": "Complete the Tzhaar Fight Cave in Mor Ul Rek in 35:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "1.1%"
+  },
+  {
+    "Name": "Complete the Fight Caves 5 Times",
+    "Task": "Complete the Tzhaar Fight Cave in Mor Ul Rek 5 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Fight Caves 15 Times",
+    "Task": "Complete the Tzhaar Fight Cave in Mor Ul Rek 15 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Fight Caves 30 Times",
+    "Task": "Complete the Tzhaar Fight Cave in Mor Ul Rek 30 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Inferno 5 Times",
+    "Task": "Complete the Inferno in Mor Ul Rek 5 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Inferno 10 Times",
+    "Task": "Complete the Inferno in Mor Ul Rek 10 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Inferno 20 Times",
+    "Task": "Complete the Inferno in Mor Ul Rek 20 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Kraken Boss 250 Times",
+    "Task": "Defeat the Kraken boss in Kraken Cove 250 times.",
+    "Requirements": "87 SlayerRequires a slayer task to attack.",
+    "Comp%": "1.1%"
+  },
+  {
+    "Name": "Defeat the Kraken Boss 500 Times",
+    "Task": "Defeat the Kraken boss in Kraken Cove 500 times.",
+    "Requirements": "87 SlayerRequires a slayer task to attack.",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat the Kraken Boss 750 Times",
+    "Task": "Defeat the Kraken boss in Kraken Cove 750 times.",
+    "Requirements": "87 SlayerRequires a slayer task to attack.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat 300 Demonic Gorillas",
+    "Task": "Defeat 300 demonic gorillas in the Crash Site Cavern.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat 500 Demonic Gorillas",
+    "Task": "Defeat 500 demonic gorillas in the Crash Site Cavern.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat 750 Demonic Gorillas",
+    "Task": "Defeat 750 demonic gorillas in the Crash Site Cavern.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Any God Wars Dungeon Boss 100 Times",
+    "Task": "Defeat any God Wars Dungeon boss 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "4.8%"
+  },
+  {
+    "Name": "Defeat Any God Wars Dungeon Boss 250 Times",
+    "Task": "Defeat any God Wars Dungeon boss 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "1.6%"
+  },
+  {
+    "Name": "Defeat Any God Wars Dungeon Boss 500 Times",
+    "Task": "Defeat any God Wars Dungeon boss 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat the Giant Mole 250 Times",
+    "Task": "Defeat the Giant Mole beneath Falador 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Giant Mole 500 Times",
+    "Task": "Defeat the Giant Mole beneath Falador 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Giant Mole 750 Times",
+    "Task": "Defeat the Giant Mole beneath Falador 750 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Kalphite Queen",
+    "Task": "Defeat the Kalphite Queen in the Kalphite Lair.",
+    "Requirements": "Two ropes",
+    "Comp%": "2.3%"
+  },
+  {
+    "Name": "Defeat the Kalphite Queen 100 Times",
+    "Task": "Defeat the Kalphite Queen in the Kalphite Lair 100 times.",
+    "Requirements": "Two ropes or   Desert hard diary",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Kalphite Queen 250 Times",
+    "Task": "Defeat the Kalphite Queen in the Kalphite Lair 250 times.",
+    "Requirements": "Two ropes or   Desert hard diary",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Kalphite Queen 500 Times",
+    "Task": "Defeat the Kalphite Queen in the Kalphite Lair 500 times.",
+    "Requirements": "Two ropes or   Desert hard diary",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare",
+    "Task": "Defeat The Nightmare in the Sisterhood Sanctuary.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood in 20:00",
+    "Task": "Complete the Theatre of Blood in 20:00 or less challenge time with 3 players or less.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "0.5%"
+  },
+  {
+    "Name": "Defeat The Nightmare in 3:00",
+    "Task": "Defeat The Nightmare in the Sisterhood Sanctuary in 3:00 or less with 5 players or less.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 50 Times",
+    "Task": "Complete the Theatre of Blood on Normal or Hard Mode 50 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 100 Times",
+    "Task": "Complete the Theatre of Blood 100 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 200 Times",
+    "Task": "Complete the Theatre of Blood 200 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 300 Times",
+    "Task": "Complete the Theatre of Blood on Normal or Hard Mode 300 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 350 Times",
+    "Task": "Complete the Theatre of Blood 350 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood 500 Times",
+    "Task": "Complete the Theatre of Blood 500 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Corporeal Beast",
+    "Task": "Defeat the Corporeal Beast in the Wilderness.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat the Corporeal Beast 100 Times",
+    "Task": "Defeat the Corporeal Beast in the Wilderness 100 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Corporeal Beast 250 Times",
+    "Task": "Defeat the Corporeal Beast in the Wilderness 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Corporeal Beast 500 Times",
+    "Task": "Defeat the Corporeal Beast in the Wilderness 500 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "250 Sarachnis Kills",
+    "Task": "Kill Sarachnis in the Forthos Dungeon 250 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 50 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 50 times combined.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 100 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 100 times combined.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 250 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 250 times combined.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 500 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 500 times combined.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat The Nightmare or Phosani's Nightmare 750 times",
+    "Task": "Defeat The Nightmare or Phosani's Nightmare 750 times combined.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Theatre of Blood Hardmode",
+    "Task": "Defeat the Theatre of Blood Hardmode.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "Defeat the Theatre of Blood Hardmode 25 times",
+    "Task": "Defeat the Theatre of Blood Hardmode 25 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Theatre of Blood Hardmode 50 times",
+    "Task": "Defeat the Theatre of Blood Hardmode 50 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Theatre of Blood Hardmode 100 times",
+    "Task": "Defeat the Theatre of Blood Hardmode 100 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat the Theatre of Blood Hardmode 150 times",
+    "Task": "Defeat the Theatre of Blood Hardmode 150 times.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex 100 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 100 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Nex 200 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 200 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "200 Chambers of Xeric Challenge Mode",
+    "Task": "Complete the Chambers of Xeric Challenge Mode 200 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "CM Chambers of Xeric in Target Time",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in the target time.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Solo CM Chambers of Xeric in Target Time",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in the target time, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "30 Minutes Chambers of Xeric Solo",
+    "Task": "Complete the Chambers of Xeric in 30 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.6%"
+  },
+  {
+    "Name": "26 Minute Chambers of Xeric Solo",
+    "Task": "Complete the Chambers of Xeric in 26 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.5%"
+  },
+  {
+    "Name": "22 Minute Chambers of Xeric Solo",
+    "Task": "Complete the Chambers of Xeric in 22 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.3%"
+  },
+  {
+    "Name": "18 Minute Chambers of Xeric Solo",
+    "Task": "Complete the Chambers of Xeric in 18 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "16 Minute Chambers of Xeric Solo",
+    "Task": "Complete the Chambers of Xeric in 16 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "55 Minute Chambers of Xeric Challenge Mode Solo",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in 55 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "50 Minute Chambers of Xeric Challenge Mode Solo",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in 50 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "46 Minute Chambers of Xeric Challenge Mode Solo",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in 46 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "42 Minute Chambers of Xeric Challenge Mode Solo",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in 42 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "38 Minute Chambers of Xeric Challenge Mode Solo",
+    "Task": "Complete the Chambers of Xeric Challenge Mode in 38 minutes or less, alone.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "50 Mimic Kills",
+    "Task": "Kill the Mimic as part of a treasure trail 50 times.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Defeat Zulrah in 0:42",
+    "Task": "Defeat Zulrah at the Poison Waste in 0:42 or less.",
+    "Requirements": "N/A",
+    "Comp%": "0.8%"
+  },
+  {
+    "Name": "Complete the Corrupted Gauntlet in 5:00",
+    "Task": "Complete the Corrupted Gauntlet in Prifddinas in 5:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "2.5%"
+  },
+  {
+    "Name": "Defeat Vorkath in 0:45",
+    "Task": "Defeat Vorkath on Ungael in 0:45 or less.",
+    "Requirements": "N/A",
+    "Comp%": "0.3%"
+  },
+  {
+    "Name": "Complete the Fight Caves in 25:00",
+    "Task": "Complete the Tzhaar Fight Cave in Mor Ul Rek in 25:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "<0.1%"
+  },
+  {
+    "Name": "Complete the Inferno in 75:00",
+    "Task": "Complete the Inferno in Mor Ul Rek in 75:00 or less.",
+    "Requirements": "N/A",
+    "Comp%": "0.1%"
+  },
+  {
+    "Name": "Complete the Theatre of Blood in 16:00",
+    "Task": "Complete the Theatre of Blood in 16:00 or less challenge time with 3 players or less.",
+    "Requirements": "Requires completion of Priest in Peril",
+    "Comp%": "0.2%"
+  },
+  {
+    "Name": "Defeat Nex 500 Times",
+    "Task": "Defeat Nex in the God Wars Dungeon 500 times.",
+    "Requirements": "70 Hitpoints,  70 Ranged,  70 Strength,  70 AgilityRequires assembling a frozen key.",
+    "Comp%": "<0.1%"
+  }
+]
